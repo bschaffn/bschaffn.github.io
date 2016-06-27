@@ -1,3 +1,7 @@
+body {
+	color: rgb(220,220,220);
+}
+
 .back {
 	float: right;
 	text-decoration: none;
