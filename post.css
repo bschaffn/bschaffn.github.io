@@ -1,0 +1,25 @@
+.back {
+	float: right;
+	text-decoration: none;
+	margin-top: -50px;
+	font: 18pt bold, monospace;
+	padding: 5px;
+	background: rgb(70,65,50);
+	color: rgb(250,180,10);
+}
+
+.back:visited {
+	color: rgb(250,180,10);
+}
+
+.back:before {
+	content: ">";
+	padding-right: 10px;
+	color: rgb(220,220,220);
+}
+
+.post {
+	margin: 0 auto;
+	width: 80%;
+	padding: 5px;
+}

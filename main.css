@@ -1,0 +1,17 @@
+body {
+	background: rgb(70,65,50);
+	color: rgb(220,220,220);
+}
+
+.posts a, .posts a:visited {
+	text-decoration: none;
+	color: rgb(250,180,10);
+}
+
+.posts a:hover {
+	text-decoration: underline;
+}
+
+h1 {
+	font: 24pt bold, monospace;
+}
