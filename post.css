@@ -1,0 +1,19 @@
+.back {
+	float: right;
+	text-decoration: none;
+	margin-top: -50px;
+	font: 18pt bold, monospace;
+	padding: 5px;
+	background: #666;
+}
+
+.back:before {
+	content: ">";
+	padding-right: 10px;
+	color: black;
+}
+
+.post {
+	margin: 0 auto;
+	width: 80%;
+}
