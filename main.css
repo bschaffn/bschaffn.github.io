@@ -8,6 +8,10 @@ body {
 	color: rgb(250,180,10);
 }
 
+.posts a:hover {
+	text-decoration: underline;
+}
+
 h1 {
 	font: 24pt bold, monospace;
 }
